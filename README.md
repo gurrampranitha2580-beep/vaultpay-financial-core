@@ -11,6 +11,7 @@ The application provides separate dashboards for administrators and clients. Adm
 The focus of this project is secure access control, reliable payment processing, and invoice document management.
 
 Live-url: https://vaultpay-financial-core-nine.vercel.app/
+Demo Client credentials: pranithag2580@gmail.com , Pranitha@2003
 
 ## Features
 
